@@ -70,7 +70,7 @@ print(developer.get_current_status())
   
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=bhagirathsinhp&show_icons=true&theme=github_dark&hide_border=true&bg_color=161b22&title_color=58a6ff&icon_color=4c9f70&text_color=c9d1d9&ring_color=4c9f70" />
   
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=bhagirathsinhp&theme=github-dark-blue&hide_border=true&background=161b22&stroke=4c9f70&ring=58a6ff&fire=4c9f70&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=4c9f70&sideLabels=c9d1d9&dates=c9d1d9" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=bhagirathsinhp&theme=github-dark-blue&hide_border=true&background=161b22&stroke=4c9f70&ring=58a6ff&fire=4c9f70&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=4c9f70&sideLabels=c9d1d9&dates=c9d1d9" />
 
 </div>
 
