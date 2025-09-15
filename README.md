@@ -1,36 +1,154 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Bhagirath
-=================================================================================================================================
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"> Namaste, I'm Bhagirath!
 
-Software Developer
-------------------
+<div align="center">
 
-I'm a Computer Science MSc graduate (with Distinction), I genuinely love programming. I'm especially into Python and enjoy building smart, creative tools, like the AI-powered UML diagram generator that I recently worked on. I'm always excited to learn something new, explore cool tech, and use code to find easy answers to hard problems.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=4C9F70&center=true&vCenter=true=true&repeat=false&random=false&width=600&height=80&lines=Software+Developer+%F0%9F%92%BB;)](https://git.io/typing-svg)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-* 🌍  I'm based in Scotland
-* ✉️  You can contact me at [123shivaay@gmail.com](mailto:123shivaay@gmail.com)
+[![GitHub followers](https://img.shields.io/github/followers/bhagirathsinhp?style=social)](https://github.com/bhagirathsinhp)
+[![Profile views](https://komarev.com/ghpvc/?username=bhagirathsinhp&color=4C9F70&style=flat&label=Profile+Views)](https://github.com/bhagirathsinhp)
+[![Years Badge](https://badges.strrl.dev/years/bhagirathsinhp?color=4C9F70)](https://github.com/bhagirathsinhp)
 
-### Skills
+</div>
 
+<img align="right" alt="Developer working" width="450" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
-</p>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> **WHO AM I?**
 
+```python
+class SoftwareDeveloper:
+    def __init__(self):
+        self.name = "Bhagirath"
+        self.location = "🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland"
+        self.education = "MSc Computer Science (Distinction) 🎓"
+        self.current_focus = "AI Metadata Extractor Agent"
+        self.motto = "Code with purpose, innovate with passion"
+    
+    def get_current_status(self):
+        return {
+            "🌱": "Exploring advanced Python frameworks & AI/ML",
+            "📍": "Open to collaboration and exciting opportunities"
+        }
 
-### Socials
+developer = SoftwareDeveloper()
+print(developer.get_current_status())
+```
 
-<p align="left"> <a href="https://www.github.com/bhagirathsinhp" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/bhagirath-parmar-385865269/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/bhagirathsinh__" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
+<br clear="right"/>
 
-### Badges
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<b>My GitHub Stats</b>
+## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> **TECH ARSENAL**
 
-<a href="http://www.github.com/bhagirathsinhp"><img src="https://github-readme-stats.vercel.app/api?username=bhagirathsinhp&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="bhagirathsinhp's GitHub stats" /></a>
+<div align="center">
 
-<a href="http://www.github.com/bhagirathsinhp"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bhagirathsinhp&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+### **Core Languages**
+![Python](https://skillicons.dev/icons?i=python)&nbsp;
+![JavaScript](https://skillicons.dev/icons?i=js)&nbsp;
+![HTML5](https://skillicons.dev/icons?i=html)&nbsp;
+![CSS3](https://skillicons.dev/icons?i=css)
 
-<a href="http://www.github.com/bhagirathsinhp">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhagirathsinhp&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
-</a>
+### **Frameworks & Tools**
+![Flask](https://skillicons.dev/icons?i=flask)&nbsp;
+![VSCode](https://skillicons.dev/icons?i=vscode)&nbsp;
+![Git](https://skillicons.dev/icons?i=git)
 
-<a href="https://github.com/bhagirathsinhp" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhagirathsinhp&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>
+### **Cloud & DevOps**
+![AWS](https://skillicons.dev/icons?i=aws)&nbsp;
+![Docker](https://skillicons.dev/icons?i=docker)&nbsp;
+![Linux](https://skillicons.dev/icons?i=linux)
+
+</div>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bhagirathsinhp&bg_color=161b22&color=4c9f70&line=4c9f70&point=58a6ff&area=true&hide_border=true&title_color=58a6ff" width="100%"/>
+
+</div>
+
+## 📊 **GITHUB ANALYTICS**
+
+<div align="center">
+  
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=bhagirathsinhp&show_icons=true&theme=github_dark&hide_border=true&bg_color=161b22&title_color=58a6ff&icon_color=4c9f70&text_color=c9d1d9&ring_color=4c9f70" />
+  
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=bhagirathsinhp&theme=github-dark-blue&hide_border=true&background=161b22&stroke=4c9f70&ring=58a6ff&fire=4c9f70&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=4c9f70&sideLabels=c9d1d9&dates=c9d1d9" />
+
+</div>
+
+<div align="center">
+  
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhagirathsinhp&layout=compact&theme=github_dark&hide_border=true&bg_color=161b22&title_color=58a6ff&text_color=c9d1d9&langs_count=8&hide=html,css" />
+
+</div>
+
+## 🏆 **ACHIEVEMENTS SHOWCASE**
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=bhagirathsinhp&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&column=4&rank=-?)](https://github.com/bhagirathsinhp)
+
+</div>
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> **LET'S CONNECT & COLLABORATE**
+
+<div align="center">
+
+### *"The best way to predict the future is to create it"*
+
+<br>
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://github.com/bhagirathsinhp.png" width="150px" height="150px" style="border-radius: 50%" />
+<br><br>
+<strong>Bhagirath</strong><br>
+<sub>Software Developer</sub><br>
+<sub>🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland</sub>
+</td>
+<td align="left" width="75%">
+
+**🎯 Currently Seeking:**
+- Exciting software development opportunities
+- AI/ML project collaborations
+- Open source contributions
+
+**💝 What I Bring:**
+- MSc Computer Science with Distinction
+- Passion for AI-powered solutions
+- Creative problem-solving approach
+- Strong Python & web development skills
+
+**📬 Get In Touch:**
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:123shivaay@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhagirath-parmar-385865269/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.x.com/bhagirathsinh__)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bhagirathsinhp)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## 💭 **DAILY WISDOM**
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20only%20way%20to%20do%20great%20work%20is%20to%20love%20what%20you%20do&author=Steve%20Jobs" />
+
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4C9F70&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+%F0%9F%99%8F;Let's+build+something+amazing+together!+%F0%9F%9A%80;Always+open+to+new+opportunities!+%F0%9F%8C%9F" />
+
+<br>
+
+**⭐ If you find my work interesting, don't forget to star my repositories!**
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=4C9F70&height=120&section=footer" width="100%"/>
