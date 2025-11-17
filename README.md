@@ -21,7 +21,7 @@ class SoftwareDeveloper:
         self.name = "Bhagirath"
         self.location = "🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland"
         self.education = "MSc Computer Science (Distinction) 🎓"
-        self.current_focus = "AI Metadata Extractor Agent"
+        self.current_focus = "AI Engineer Course"
         self.motto = "Code with purpose, innovate with passion"
     
     def get_current_status(self):
