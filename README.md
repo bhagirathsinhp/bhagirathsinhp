@@ -39,7 +39,7 @@ print(engineer.current_focus())
 ## 🛠️ Primary Stack
 ###### My go-to stack for AI-powered, production-grade applications.
 
-[![Primary Stack](https://skillicons.dev/icons?i=python,fastapi,flask,aws,docker,mysql,git,github,linux,vscode,js,css,html&theme=light&perline=6)](https://skillicons.dev)
+[![Primary Stack](https://skillicons.dev/icons?i=python,fastapi,flask,aws,docker,mysql,git,github,linux,vscode,js,css,html&theme=light&perline=15)](https://skillicons.dev)
 
 <hr/>
 
