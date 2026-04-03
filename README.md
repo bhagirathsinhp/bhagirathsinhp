@@ -46,7 +46,7 @@ print(engineer.current_focus())
 ## 🤖 AI Stack
 ###### LLMs, RAG architectures and agentic pipelines in production.
 
-`LangChain` · `LangGraph` · `CrewAI` · `AutoGen` · `OpenAI SDK` · `Anthropic SDK` · `Claude Code` · `MCP` · `ChromaDB` · `Pinecone` · `Prompt Engineering` · `NLP` · `RAG`
+`LangChain` · `LangGraph` · `CrewAI` · `AutoGen` · `OpenAI SDK` · `Anthropic SDK` · `Claude Code` · `Codex CLI` . `MCP` · `ChromaDB` · `Pinecone` · `Prompt Engineering` · `NLP` · `RAG`
 
 <hr/>
 
