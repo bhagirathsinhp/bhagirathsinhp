@@ -34,7 +34,7 @@ engineer = AIEngineer()
 print(engineer.current_focus())
 ```
 
-<hr/>
+---
 
 ## 🛠️ Primary Stack
 ###### My go-to stack for AI-powered, production-grade applications.
